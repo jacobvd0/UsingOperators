@@ -1,0 +1,15 @@
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\bin\Debug\net6.0\UsingOperators.exe
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\bin\Debug\net6.0\UsingOperators.deps.json
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\bin\Debug\net6.0\UsingOperators.runtimeconfig.json
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\bin\Debug\net6.0\UsingOperators.dll
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\bin\Debug\net6.0\UsingOperators.pdb
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\UsingOperators.csproj.AssemblyReference.cache
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\UsingOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\UsingOperators.AssemblyInfoInputs.cache
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\UsingOperators.AssemblyInfo.cs
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\UsingOperators.csproj.CoreCompileInputs.cache
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\UsingOperators.dll
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\refint\UsingOperators.dll
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\UsingOperators.pdb
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\UsingOperators.genruntimeconfig.cache
+C:\Users\s221150\source\repos\UsingOperators\UsingOperators\obj\Debug\net6.0\ref\UsingOperators.dll
